@@ -1,0 +1,1 @@
+Sports gambling, onlyfans, tiktok, the scroll and algorithms, streaming services, sports in general. We lack leaders
