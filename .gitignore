@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Un-ignore specific folders
+!Agency/
+!Attention/
+!Discipline/
+!Masculinity/
+
+# Un-ignore .gitignore itself
+!.gitignore
