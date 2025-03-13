@@ -3,7 +3,6 @@ tags:
   - Mindset
   - Self-control
 Status: Edited
-WC: "702"
 ---
 <center><h1>Just Do It</h1></center>
 

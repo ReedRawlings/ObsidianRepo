@@ -1,5 +1,5 @@
 <center><h1>What is Agency?</h1></center>
-I am defining agency as,
+I define agency as,
 
 > The bridge between thought and action. Explicitly when those actions are aligned with one's self-interest, goals, or allow them to assert their presence and advocate for themselves.
 

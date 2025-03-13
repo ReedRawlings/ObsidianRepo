@@ -3,7 +3,6 @@ tags:
   - Self-control
 ---
 <center><h1>The Path to True Self Control</h1></center>
-
 **Willpower:** Exerted in the moment when you’re feeling the effect of temptation. More similar to decision-making
 
 **Self-control:** Exerted in the past as a way to prepare for temptations. More similar to planning and habituation

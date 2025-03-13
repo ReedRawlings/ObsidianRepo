@@ -1,0 +1,19 @@
+How does the world look when AI takes over?
+- Jobs give you security and economic agency. Losing that is scary. People want meaning, purpose, self-esteem, and control over their own lives (jobs give this). 
+- For some people its a few of cultural beliefs
+- It's their livelihood. Its what makes them feel like a man
+- What is your live style going to look at after the fact? What will your day-to-day look like in a post labor economy? A retirement? 
+	- Leisure class; poetry, consulting, debating (but all these things can now be done by AI)
+- It's going to be more important to have a tribe. A group of people you can spend time with just for the sake of it. 
+- Others will likely fall into cybernetic worlds where they interact with other people and AI. The real world will be less and less material to them.
+- There will be plenty of time to do whatever you want with your life.
+- "I take my dogs to the park, not because it creates value but because it's something fun to do."
+- "What if billionaires just keep making more money forever. "
+- Read, Why Nations Fail
+- "Will we be able to build great things? Will we be able to direct AI to create a better future for us or will it run amok?"
+- Agency is crucial to the post labor economy. What will you do with your free time?
+- People need their tribes. A small group of people they enjoy the time of. Whats to stop AI from becoming the tribe?
+- "It is far beyond Economy. This is the struggle for purpose and meaning. Apparently it is surprising that a machine built to replace you is not welcomed by those who still wish to exist" - @M1ndPrison on X
+- https://twitter.com/kimmonismus/status/1894737933355122777
+	- This is the worst it will ever be ![[Pasted image 20250226093717.png]]
+- 

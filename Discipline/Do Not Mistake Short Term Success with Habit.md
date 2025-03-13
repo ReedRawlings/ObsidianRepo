@@ -2,7 +2,6 @@
 tags:
   - Self-control
 Status: Draft
-WC: "269"
 Affects:
 ---
 <center><h1>Short Term Success is not Habitual</h1></center>

@@ -1,11 +1,38 @@
-# Ignore everything
-*
+.obsidian/
+*.log
+*.tmp
+trash/
+AI Clippings
+Readwise
+Short Form Video Content
+Moodboard
+Images
+Every Self Brand Identity
+Every Self
+Social Media Planner.md
+Reading List.md
+Index.md
+Willpower Clippings
+Short Form Video Content
+Men’s Liberation
+Social Media Planner
+Shit Posts/Tiktok Shitposts/Tiktok Shitposts.md
+Reading List
+Writing/LinkedIn.md
+Writing/Hot Quotes.md
+Writing
+Pasted image 20250226093717.png
+1-s2.0-S0001457523000192-gr1.sml
+1-s2.0-S0001457523000192-gr2.sml
+1-s2.0-S0001457523000192-gr3.sml
+Apps.md
+3-3-2025 Tiktok Posts.md
+Attention/Attention Articles
+Discipline/Self-Control and Willpower/Self-Control Articles
 
-# Un-ignore specific folders
-!Agency/
-!Attention/
-!Discipline/
-!Masculinity/
 
-# Un-ignore .gitignore itself
-!.gitignore
+
+# Ignore Smart Environment folder
+.smart-env
+Predictions.md
+Templates

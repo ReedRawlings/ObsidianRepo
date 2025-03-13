@@ -1,1 +1,0 @@
-Our goals can be implicit or explicit. Though you rarely hear about the implicit ones (like raising healthy children). Instead, people want to tell you about their new years resolutions or the new novel they've just started writing. Both types of goals interact with one another in ways most of us fail to recognize until it's too late.
