@@ -1,4 +1,4 @@
-I love to tell people I’m doing nothing, but nothing looks on awful lot like sitting on my phone.
+I love to tell people I’m doing nothing, but nothing looks an awful lot like sitting on my phone.
 
 I pick up my phone, I scroll Twitter, I put my phone down again, I look around for nothing, I pick up my phone, I scroll Twitter.
 
@@ -24,10 +24,7 @@ The best way for me to do this would be to delete Twitter (and all social media)
 
 Research from Ulrik Lyngs helps us identify a few tools we can use to circumvent the need for willpower and empower better behaviors.
 
-  
-
 ---
-
 I have two problems; I do not like doing nothing and the closer I get to doing nothing the more likely I am to fall back on my habits.
 
 If I wanted to take back a few moments each day I would need to either change my habits are stop having moments where nothing is happening.

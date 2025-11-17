@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"83355b37916b3baa","type":"file","file":"Moodboard/Moodboard Images/Wanderer above the Sea Fog.png","x":-155,"y":-430,"width":311,"height":400},
+		{"id":"a3696821022f1960","type":"file","file":"Brand/Moodboard Images/Two Men Contemplating the Moon.png","x":-155,"y":0,"width":400,"height":321},
+		{"id":"7a4e25e8798947bc","type":"file","file":"Brand/Moodboard Images/The Cross in the Mountains.png","x":260,"y":-79,"width":339,"height":400},
+		{"id":"fa70d07d6bb39267","type":"text","text":"The heart is the center of the universe","x":-124,"y":-260,"width":250,"height":60},
+		{"id":"e3cd6f899b620297","type":"file","file":"Images/Pasted image 20250306182905.png","x":-345,"y":-680,"width":781,"height":204},
+		{"id":"7f03e0ce0d689747","type":"text","text":"Brand Colors\n2e8b57\nb08d57\n393d3f\nf3eff5\nfcfffc","x":-139,"y":-880,"width":369,"height":162}
+	],
+	"edges":[
+		{"id":"062f80d342ef71fd","fromNode":"7f03e0ce0d689747","fromSide":"bottom","toNode":"e3cd6f899b620297","toSide":"top"}
+	]
+}

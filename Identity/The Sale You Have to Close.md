@@ -1,5 +1,5 @@
 ---
-Status: Draft
+Status: Edited
 tags:
   - Identity
   - Sales
@@ -9,7 +9,7 @@ Link:
 <center><h1>The Sale You Have to Close</h1></center>
 People assume sales is about persuasion. That good sales is about pulling the wool over a customers eyes. Fancy suits. High pressure tactics. A game of manipulation.
 
-That reputation has changed how people buy. They walk into the process guarded, skeptical. Trust is low by default — and every seller starts at arm's length.
+That reputation has changed how people buy. They walk into the process guarded, skeptical. Trust is low by default and every seller starts at arm's length.
 
 I’ve worked in sales for six years, closing over $10 million in deals. I now sell to some of the largest companies in the world. But only recently did I realize something strange:
 
@@ -100,4 +100,4 @@ When you're struggling to take action, ask yourself:
 
 > If someone tried to sell me this version of me, would I buy it?
 
-You’ve got to sell yourself on your vision — every damn day.
+You’ve got to sell yourself on your vision — every day.

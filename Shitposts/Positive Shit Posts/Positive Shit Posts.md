@@ -5,6 +5,11 @@ The work is bigger than us
 Consistency doesn't care about failure
 
 ---
+ Many people don’t act because they’ve internalized a belief like:  
+“Even if I try, it might not work. So why expose myself?”
+That’s not laziness—it’s **learned helplessness** or **protective pessimism**.
+
+---
 
 A lot of talk in the men’s self-help space that gamers are the antithesis of men who attract women.
 
@@ -674,8 +679,6 @@ Good luck!
 
 [https://x.com/yacineMTB/status/1832079430614982997](https://x.com/yacineMTB/status/1832079430614982997)
 
-  
-
 ---
 
 If my therapist treated me like David Goggins treats himself that would fix me.
@@ -702,7 +705,7 @@ Thinking you want something without understanding the reasons why seems like suc
 
 ---
 
-Look around you! Look at how inefficient it all is! 10,000 reasons to make change. Your actions can shape the world. Destroy inertia!
+Look around you! Look at how inefficient it all is! 10,000 reasons to make a change. Your actions can shape the world. Destroy inertia!
 
 ---
 
@@ -1066,7 +1069,7 @@ Telling my girlfriend “not to beat herself up about” missing my laundry whil
 
 You need to give yourself something to work toward and an expectation for your life.  
   
-you must do these things in earnest. You can't half ass your lifes work. You cant half ass your expectations. Be serious so you can prvide ypurself an opportunity for happiness  
+you must do these things in earnest. You can't half ass your lifes work. You cant half ass your expectations. Be serious so you can provide yourself an opportunity for happiness  
 
 ---
 

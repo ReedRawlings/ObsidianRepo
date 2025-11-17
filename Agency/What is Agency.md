@@ -1,41 +1,63 @@
 <center><h1>What is Agency?</h1></center>
-I define agency as,
+Every time I visit San Francisco, I see human shit on the street. 
 
-> The bridge between thought and action. Explicitly when those actions are aligned with one's self-interest, goals, or allow them to assert their presence and advocate for themselves.
+The person who did this likely has more agency than me. They embody agency in its most pure form with no concern for judgement or rules. They live a life of personal freedom.
 
-Agency then, should not exist in a vacuum. A person who only works in their own self-interest or goals is unlikely to benefit society.
+This is why **agency alone** is not a worthwhile trait to pursue. 
 
-The Hulk is a completely agentic being. It exists for itself. He runs on free will and rage. There are no boundaries and his actions have no consequences. Similarly, he has no long-term goals and almost no impact on his own or the future of others. 
+Instead, you should think of people like Elon Musk, Sam Altman, Joe Rogan, Alexandra Ocasio Cortez, Bernie Sanders, Martin Luther King Jr or any man and women whose had radical shifts in their life and career, put voice to power, or pursued their dreams regardless of outcome or perception. 
 
-Maximizing your agency is akin to unadulterated free will. The homeless man who shits in public likely has more agency than you, but you aren't awestruck when he does this. 
+Each of theses individuals had a driving force behind their actions. It is not action for actions sake, but introspection, luck, radical belief in themselves that gave them purpose and then, through action, allowed them to achieve their goals. 
 
-Instead, you should think of people like Elon Musk, Sam Altman, Joe Rogan, Alexandra Ocasio Cortez, Bernie Sanders, Martin Luther King Jr or any man and women whose had radical shifts in their life and career, put voice to power, or pursued their dreams regardless of outcome or perception.
+They were driven more by purpose than by personal freedom. 
 
-However, all of these individuals had a driving force behind their actions. It is not action for actions sake, but introspection, luck, radical belief in themselves that gave them purpose and then, through action, allowed them to achieve their goals.
+Agency then, should not exist in a vacuum. Your goals and interests, if you aren't careful, are often impressed on you by outside forces. Your initial plans, the things you care about, what you choose to pursue - all these variables come from a deep understanding of yourself and the world you live in. 
 
-Now that you understand agency you might have some questions like,
-- [[#Improving Agency|Can I improve my agency?]]
-- [[#Lack of Agency|Do I lack agency?]]
-- [[#Improving Agency|Why should I improve my agency?]]
-- [[#Expression of Agency|How do others express their agency?]]
-- [[#The Traits, Skills, and Beliefs of Agency| What skills, traits, or beliefs relate to agency?]]
+>Defining Agency: The bridge between thought and action. Explicitly when those actions are aligned with one's self-interest, goals, or allow them to assert their presence and advocate for themselves.
+## The Passenger Problem
+Most people are passengers in their own lives. 
 
+They let parents, teachers, bosses, culture, social media, and fear set the route. They nod along while someone else picks the destination, hits the gas, and decides when to stop.
+
+They might complain about the ride, but they rarely take the wheel.
+
+Agency is getting in the drivers seat. It's seeing where you are, choosing where to go, and turning the wheel yourself. It doesn't mean you never ask for directions or slow down for stop signs, but you aren't going to hand over the keys.
+
+Maybe you never learned how to drive. Maybe you gave up because it was too overwhelming. Maybe you only drive when the road is empty and no one's watching. 
+
+If you want a life that's yours; career, identity, and path that reflect who you are, you can't sit shotgun forever. 
+
+**Agency means choosing your direction** even when you're unsure. 
 ## The Value Proposition of Agency
-Any person can experience agency. Anyone can harness it for themselves. Those who are truly successful always have agency. You can not excel in life without it. 
+Anyone can harness agency for themselves, but the skill alone doesn't make you great. It just makes you *capable*. 
 
-The value proposition of agency is not agency alone, but what it allows a self-aligned individual to accomplish.
+The true value of agency is what it allows a self-aligned person to accomplish.
 
 To maximize agency at the expense of it's related skills, traits, and beliefs creates a mindless machine that acts on whim rather than wisdom.
 
-HULK.PNG
+But when agency if fused with introspection, resilience, communication, autonomy, and locus of control becomes a master of their environment. People like this will seemingly bend reality to their will. 
 
-A person who combines agency with introspection, resilience, communication, autonomy, and locus of control becomes a master of their environment. The only thing between them and a wildly successful life is time and luck.
+Now that you understand agency you might have some questions like,
+- [[#Improving Agency|Can I improve my agency?]]
+- [[#Lack of Ageny|Do I lack agency?]]
+- [[#Improving Agency|Why should I improve my agency?]]
+- [[#Expression of Agency|How do others express their agency?]]
+- [[#What Happens When You Embrace Your Agency?|What happens when you embrace agency?]]
+- [[#The Traits, Skills, and Beliefs of Agency|What skills, traits, or beliefs relate to agency?]]
 ## Improving Agency
-You can improve your agency. It's far easier than you'd imagine. You only need to exist outside a position of power. There may be a handful of people in the world that sentence doesn't apply to. You are not one of them. This is a wonderful revelation! It means you have will have daily opportunities to improve.
+**Yes** - you can improve your agency. It's far easier than you'd imagine. 
 
-Below is a list of agency exercises. You can attempt any of these and simultaneously increase many of agencies related skills. I am partial to this list because I have done many of these myself and found that none of them were difficult to implement and all were well received by their counterparties. After all, no one wants to have dissatisfied customers. 
+**You only need to exist outside a position of power.** 
+
+Which, aside from a few of the world's elite, encompasses every person on the planet. 
+
+This is a wonderful revelation! It means you - right now - have daily opportunities to practice agency. 
 ### Every Day Practice
-This list is nearly limitless. The things you do daily might look drastically different from me. If they do, the list below should be enough to get your wheels churning. If you live in an isolated environment or you've chosen to self-isolate there are many opportunities online to express your agency. 
+ The theoretical list limitless. The way you express agency might look different from me, but the principle is universal: **you choose to act in alignment with your desires or goals, not because you’re told to, expected to, or pressured to.** 
+
+Below is a list of agency exercises. You can attempt any of these and simultaneously increase many of agencies related skills.
+
+I’ve done most of these myself. None were difficult to implement. All were well received.
 #### Solo
 - Ignoring the tipping sign.
 - Studying for next years coursework over the summer
@@ -60,19 +82,27 @@ This list is nearly limitless. The things you do daily might look drastically di
 - Speaking up in a meeting
 - Shifting tables and chairs around for you and your party at a gathering so everyone can sit together
 ### Generalized Agency
-Once you've practiced agency in enough micro situations you'll need to start looking for more ways to exert yourself. These are less easy to define, but broadly appear as you choosing actions that align with your beliefs rather than letting your social group dictate for you. 
+Once you've practiced agency in enough micro situations you'll need to start looking for more ways to exert yourself. These moments will start to define who you are and how you want to be perceived. 
 
-- Choosing what language is appropriate to use rather than letting society dictate for you.
-- Pursuing your interests and passions rather than worrying about how others will view you.
-- Doing what's right instead of the bare minimum. 
+These are less easy to define, but appear as you choosing actions that align with your beliefs rather than letting your social group dictate your actions. 
 
-Be careful! Exerting your agency, especially in dynamics where you lack power, is dangerous. It often means going against people exerting their authority or even their own agency. These moments are rife for conflict. This can be a moment to practice resilience or simply understand the dynamics between agency <> agency and agency <> authority.
+- Choosing your own language instead of defaulting to what’s socially “acceptable.”
+- Pursuing passions without worrying how others will view you.
+- Doing what’s _right_, not what’s expected or easy. 
 
+**Be careful!** 
 
+Exerting your agency, especially in dynamics where you lack power, is dangerous. It often means going against people exerting their authority or even their own agency. These moments are rife for conflict, so don't be surprised by the resistance. 
+
+This is where you shift from rebel to strategist. You're no longer exerting your agency for it's own sake, but to exemplify your character. 
+
+Learn to recognize these moments. Study the tension. Understand the push-pull of agency vs agency and agency vs authority. 
+
+If you excel in these moments you will take ownership of your identity. This is where you stop outsourcing who you are. You're no longer reacting to situations, but choosing how to live. 
 ## Expression of Agency
-Agency can be expressed in a number of ways. It's often discussed as a tenant of "success", but there are many high agency people who only have moderate financial success. I'd guess they are happier on average though. 
+Agency is often associated with high performers, but not all high-agency people are wealthy or publicly recognized. Some live quiet lives with moderate success, but I would bet they're happier than most because they live life on their own terms. 
 
-When I look at people in my life who are high agency here are the actions I see them taking or the characteristics they often exude. 
+When I look at people in my life who are high agency, here's what I consistently see: 
 
 - Choosing to end relationships that don't align with your values
 - Setting boundaries around post work communication
@@ -90,11 +120,15 @@ When I look at people in my life who are high agency here are the actions I see 
 - Resisting external pressures that conflict with values
 - Creating your own learning path rather than following preset curricula
 
-This is not an exhaustive list. I bet I'm missing many important examples. If you believe I am please reach out!
-## Lack of Agency
-Most of us live passive lives. It's almost impossible not to. Our education system creates repetitive environments where acting out of line is heavily discourage. This process extends into college and if autonomy isn't beaten out of you by then entering the workforce will finish you off. 
+In short, **they make deliberate choices.** They take themselves seriously and live according to their principles. 
 
-Thankfully, this means each of these environments are brimming with moments to exert agency (and make yourself look good at the same time). 
+This is not an exhaustive list. I bet I'm missing many important examples. If you believe I am please reach out on X or through email at rawlingreed@gmail.com
+## Lack of Agency
+Most of us live passively. It's almost impossible not to. 
+
+School teaches us to follow rules, repeat tasks, and color inside the lines. This process extends into college and if autonomy isn't beaten out of you by then entering the workforce will finish you off. 
+
+But there is a silver lining, these environments are brimming with moments to practice agency - and make yourself look good at the same time. 
 
 I've compiled a list of traits and characteristics that exemplify those with low agency. Checking a single box doesn't necessarily mean you lack agency, but a few of these combined is a good signal. 
 
@@ -109,16 +143,47 @@ I've compiled a list of traits and characteristics that exemplify those with low
 - Ask for permission rather than taking initiative. 
 - Hesitates to voice dissent or disagreement. 
 
-Reading through this list and examining which best align to your life and behaviors is an opportunity to practice introspection, a core skill for exceptional autonomy. 
+If this list hits close to home, don't panic. Start with introspection, one of the foundational skills behind autonomy and agency. 
 
-As you analyze your life, take the opportunity to look for ways you can start exerting agency. Many of these signals align with the [[#Every Day Practice|"every day practice"]] section of improving agency. 
+Then, start small. As you analyze your life,  look for ways you can exert agency. Many of these signals align with the [[#Every Day Practice|"every day practice"]] section of improving agency. 
+
+Remember you weren't born passive. You were trained to be. It's time to unlearn those behaviors.
+## What Happens When You Embrace Your Agency?
+If you’re still riding passenger, life feels small. You wait, drift, and quietly hope someone else chooses a good route. Your time, your relationships, even your identity, they're all steered by hands other than your own. You sense you could be doing more, but hesitation and fear cloud your vision.
+
+But imagine waking up differently.
+
+You open your eyes feeling clear-headed, because your day belongs entirely to you. You're no longer worried about what other people expect—your plans reflect choices you've consciously made. Your work no longer drains you because it aligns deeply with who you are, or who you're becoming.
+
+In meetings, your voice is confident not because you're always right, but because it deserves to be heard. You stop apologizing for how you feel or what you believe. Relationships grow stronger because they’re rooted in honesty, intention, and clear boundaries.
+
+Challenges still show up—they always will—but you handle them differently now. You view obstacles as opportunities, not setbacks. You’ve built resilience, clarity, and inner calm. Anxiety might still knock on the door, but it leaves quickly, because your decisions are guided by authenticity rather than fear.
+
+And here’s the best part: agency makes your life your own. You're no longer a supporting character in someone else’s story. 
+
+**You’re the driver now.**
+
+The road ahead opens up. You choose detours, explore uncharted paths, and create opportunities where others see dead ends. The ride isn't always smooth—sometimes it's rough and winding—but every mile belongs to you. Every lesson is valuable. Every destination is deliberately chosen.
+
+This isn’t fantasy. It's attainable. In fact, you're already closer than you realize.
+
+All that's left is to turn the key—to embrace the discomfort of action over the numbness of passivity. Agency isn't about knowing exactly what comes next; it's about finding the courage to choose anyway.
+
+So take the keys.  
+
+Your life isn’t just waiting—it's waiting for **you**.
+
+---
+This is the formal end of our lesson on agency, but you might be hungry for more. I mentioned throughout that agency can't live on its own. You need to learn other skills, develop new traits and belief systems that empower agency to become a shining star in your life. 
+
+Think of what you read below as an expanded lesson on agency. Disciplines to look at as you continue to develop. 
 ## The Traits, Skills, and Beliefs of Agency
 Agency is not a standalone skill. It is not something you should maximize for compared to many of it's related traits and skills. Here I've compiled a more exhaustive list. If you're looking to improve your agency you can likely do so by working on anything in this list. 
 
 Skills provide the tools to act and traits provide the foundation for effort. 
 Traits provide the motivation and ability to exert agency. 
 
-Each subheader deep links to a corresponding, definition, examples, and ways to improve. If you feel confident in your understanding of any listed simply move on. 
+Eventually, each subheader will deep link to a corresponding, definition, examples, and ways to improve. 
 - [[Self-Efficacy]] (belief and skill)
 	- Belief in one's ability to succeed
 - Courage (trait)
@@ -140,7 +205,7 @@ Each subheader deep links to a corresponding, definition, examples, and ways to 
 - Luck (skill)
 	- Opportunity maximization
 	- Increased openness
-- Introspection (skill)
+- [[What is Introspection|Introspection]] (skill)
 	- Looking inward to understand what is meaningful to pursue
 - Intentionality (trait)
 	- Actions are driven by purpose and goals. 
@@ -148,6 +213,8 @@ Each subheader deep links to a corresponding, definition, examples, and ways to 
 	- The capacity to evaluate one's actions and motivations
 - Autonomy (trait)
 	- The ability to act according to one's own will and values. 
+- Accountability (Skill)
+	- Responsibility and willingness to face the results of your actions, good or bad.
 - Strategic thinking (skill)
 	- Actionable plans
 - Resourcefulness (skill)

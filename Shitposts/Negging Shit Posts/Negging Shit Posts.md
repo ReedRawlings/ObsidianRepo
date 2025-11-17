@@ -1,31 +1,26 @@
 ~~Men who can’t separate their video games from the real-world are destined to end thousands of years of legacy building~~
 
 ---
-
 Suicide rates higher for black pill males or trans men?
 
 ---
+I love to tell people I’m doing nothing, but nothing is always sitting on my phone and feeling slightly bad about myself.
 
+---
 Women don't want to be your parents. You need to take the leadership role.
 
 ---
-
 Black pilled men have to be the easiest group to milk for cash after left-leaning women.
 
 ---
-
 I’ve never forced anyone to work in the cobalt mines but if it meant I wouldn’t get a new iphone this year you can bet your ass I would.
 
 ---
-
 You want to touch tips? No?
-
-  
 
 Then what are we even doing…
 
 ---
-
 Incels as a movement is interesting. Low T behavior, external locus of control, low agency, poor self-worth. Have to imagine suicide rates are incredibly high.
 
 But I have to wonder who’s out there creating the content. Clearly some incel influencers cranking out misogynist blogs and videos.
@@ -33,7 +28,6 @@ But I have to wonder who’s out there creating the content. Clearly some incel 
 Maybe it’s easy to gather a bunch of low agency men together and spoon feed them a singular worldview rather than lift them up
 
 ---
-
 Introverts need to have high agency. They are at the disadvantage of needing to create opportunities for themselves.
 
 Extroverts go to parties or organize events and people think they have unique skills and want to spend more time with them.
@@ -95,15 +89,12 @@ The worst thing that can happen for these people is that they realize their expe
 ~~Fear might be the mind killer, but distraction kills the soul. And we have so much more distraction to contend with.~~
 
 ---
-
 The second amendment is great because it gives men who can’t find the clitoris a way to remove themselves from the gene pool.
 
 ---
-
 ~~You are not the person you wish to be because you refuse to act.~~
 
 ---
-
 If you accept that fact you’re a fucking idiot and start asking questions instead of feeling anxiety over what could happen your life will improve ten-fold.
 
 ---
