@@ -1,0 +1,76 @@
+---
+Link: https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/
+Research URL: https://arxiv.org/abs/2212.13138
+Type: Article
+---
+Credit: zzzz17/Alamy Stock Photo
+
+![[01C9741F-6F6D-4882-8217D92370325AA7_source.jpg]]
+
+Benjamin Tolchin, a neurologist and ethicist at Yale University, is used to seeing patients who searched for their symptoms on the Internet before coming to see him—a practice doctors have long tried to discourage. “Dr. Google” is notoriously lacking in context and prone to pulling up unreliable sources.
+
+But in recent months Tolchin has begun seeing patients who are using a new, far more powerful tool for self-diagnosis: artificial intelligence chatbots such as OpenAI’s ChatGPT, the latest version of Microsoft’s search engine Bing (which is based on OpenAI’s software) and Google’s Med-PaLM. Trained on text across the Internet, these large language models (LLMs) predict the next word in a sequence to answer questions in a humanlike style. Faced with a critical shortage of health care workers, researchers and medical professionals hope that bots can step in to help answer people’s questions. Initial tests by researchers suggest these AI programs are far more accurate than a Google search. Some researchers predict that within the year, a major medical center will announce a collaboration using LLM chatbots to interact with patients and diagnose disease.
+
+ChatGPT was only released last November, but Tolchin says at least two patients have already told him they used it to self-diagnose symptoms or to look up side effects of medication. The answers were reasonable, he says. “It’s very impressive, very encouraging in terms of future potential,” he adds.
+
+Still, Tolchin and others worry that chatbots have a number of pitfalls, including uncertainty about the accuracy of the information they give people, threats to privacy and racial and gender bias ingrained in the text the algorithms draw from. He also questions about how people will interpret the information. There’s a new potential for harm that did not exist with simple Google searches or symptom checkers, Tolchin says.
+
+## AI-Assisted Diagnosis
+
+The practice of medicine has increasingly shifted online in recent years. During the COVID pandemic, the number of messages from patients to physicians via digital portals increased by more than 50 percent. Many medical systems already use simpler chatbots to perform tasks such as scheduling appointments and providing people with general health information. “It’s a complicated space because it’s evolving so rapidly,” says Nina Singh, a medical student at New York University who studies AI in medicine.
+
+But the well-read LLM chatbots could take doctor-AI collaboration—and even diagnosis—to a new level. In a study posted on the preprint server medRxiv in February that has not yet been peer-reviewed, epidemiologist Andrew Beam of Harvard University and his colleagues wrote 48 prompts phrased as descriptions of patients’ symptoms. When they [fed these to Open AI’s GPT-3](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1)—the version of the algorithm that powered ChatGPT at the time—the LLM’s top three potential diagnoses for each case included the correct one 88 percent of the time. Physicians, by comparison, could do this 96 percent of the time when given the same prompts, while people without medical training could do so 54 percent of the time.
+
+“It’s crazy surprising to me that these autocomplete things can do the symptom checking so well out of the box,” Beam says. Previous research had found that [online symptom checkers](https://www.bmj.com/content/351/bmj.h3480)—computer algorithms to help patients with self-diagnosis—only produce the right diagnosis among the top three possibilities 51 percent of the time.
+
+Chatbots are also easier to use than online symptom checkers because people can simply describe their experience rather than shoehorning it into programs that compute the statistical likelihood of a disease. “People focus on AI, but the breakthrough is the interface—that’s the English language,” Beam says. Plus, the bots can ask a patient follow-up questions, much as a doctor would. Still, he concedes that the symptom descriptions in the study were carefully written and had one correct diagnosis—the accuracy could be lower if a patient’s descriptions were poorly worded or lacked critical information.
+
+## Addressing AI’s Pitfalls
+
+Beam is concerned that LLM chatbots could be susceptible to misinformation. Their algorithms predict the next word in a series based on its likelihood in the online text it was trained on, which potentially grants equal weight to, say, information from the U.S. Centers for Disease Control and Prevention and a random thread on Facebook. A spokesperson for OpenAI told _Scientific American_ that the company “pretrains” its model to ensure it answers as the user intends, but she did not elaborate on whether it gives more weight to certain sources.* She adds that professionals in various high-risk fields helped GPT-4 to avoid “hallucinations,” responses in which a model guesses at an answer by creating new information that doesn’t exist. Because of this risk, the company includes a disclaimer saying that ChatGPT should not be used to diagnose serious conditions, provide instructions on how to cure a condition or manage life-threatening issues.
+
+Although ChatGPT is only trained on information available before September 2021, someone bent on spreading false information about vaccines, for instance, could flood the Internet with content designed to be picked up by LLMs in the future. Google’s chatbots continue to learn from new content on the Internet. “We expect this to be one new front of attempts to channel the conversation,” says Oded Nov, a computer engineer at N.Y.U.
+
+Forcing chatbots to link to their sources, as Microsoft’s Bing engine does, could provide one solution. Still, many studies and user experiences have shown that LLMs can hallucinate sources that do not exist and format them to look like reliable citations. Determining whether those cited sources are legitimate would put a large burden on the user. Other solutions could involve LLM developers controlling the sources that the bots pull from or armies of fact-checkers manually addressing falsehoods as they see them, which would deter the bots from giving those answers in the future. This would be difficult to scale with the amount of AI-generated content, however.
+
+Google is taking a different approach with its LLM chatbot Med-PaLM, which pulls from a massive data set of real questions and answers from patients and providers, as well as medical licensing exams, stored in various databases. When researchers at Google tested Med-PaLM’s performance on different “axes,” including alignment with medical consensus, completeness and possibility of harm, in a preprint study, [its answers aligned with medical and scientific consensus 92.6 percent of the time](https://arxiv.org/abs/2212.13138). Human clinicians scored 92.9 percent overall. Chatbot answers were more likely to have missing content than human answers were, but the answers were slightly less likely to harm users’ physical or mental health.
+
+The chatbots’ ability to answer medical questions wasn’t surprising to the researchers. An earlier version of MedPaLM and ChatGPT have both [passed the U.S. medical licensing exam](https://www.medscape.com/viewarticle/987549). But Alan Karthikesalingam, a clinical research scientist at Google and an author on the MedPaLM study, says that learning what patient and provider questions and answers actually look like enables the AI to look at the broader picture of a person’s health. “Reality isn’t a multiple-choice exam,” he says. “It’s a nuanced balance of patient, provider and social context.”
+
+The speed at which LLM chatbots could enter medicine concerns some researchers—even those who are otherwise excited about the new technology’s potential. “They’re deploying [the technology] before regulatory bodies can catch up,” says Marzyeh Ghassemi, a computer scientist at the Massachusetts Institute of Technology.
+
+## Perpetuating Bias and Racism
+
+Ghassemi is particularly concerned that chatbots will perpetuate the racism, sexism and other types of prejudice that persist in medicine—and across the Internet. “They’re trained on data that humans have produced, so they have every bias one might imagine,” she says. For instance, women are less likely than men to be prescribed pain medication, and Black people are more likely than white people to be diagnosed with schizophrenia and less likely to be diagnosed with depression—relics of biases in medical education and societal stereotypes that the AI can pick up from its training. In an unpublished study, Beam has found that when he asks ChatGPT whether it trusts a person’s description of their symptoms, it is less likely to trust certain racial and gender groups. OpenAI did not respond by press time about how or whether it addresses this kind of bias in medicine.
+
+Scrubbing racism from the Internet is impossible, but Ghassemi says developers may be able to do preemptive audits to see where a chatbot gives biased answers and tell it to stop or to identify common biases that pop up in its conversations with users.
+
+Instead the answer may lie in human psychology. When Ghassemi’s team [created an “evil” LLM chatbot](https://www.nature.com/articles/s43856-022-00214-4) that gave biased answers to questions about emergency medicine, they found that both doctors and nonspecialists were more likely to follow its discriminatory advice if it phrased its answers as instructions. When the AI simply stated information, the users were unlikely to show such discrimination.
+
+Karthikesalingam says that the developers training and evaluating MedPaLM at Google are diverse, which could help the company identify and address biases in the chatbot. But he adds that addressing biases is a continuous process that will depend on how the system is used.
+
+Ensuring that LLMs treat patients equitably is essential in order to get people to trust the chatbot—a challenge in itself. It is unknown, for example, whether wading through answers on a Google search makes people more discerning than being fed an answer by a chatbot.
+
+Tolchin worries that a chatbot’s friendly demeanor could lead people to trust it too much and provide personally identifiable information that could put them at risk. “There is a level of trust and emotional connection,” he says. According to disclaimers on OpenAI’s website, ChatGPT collects information from users, such as their location and IP address. Adding seemingly innocuous statements about family members or hobbies could potentially threaten one’s privacy, Tolchin says.
+
+It is also unclear whether people will tolerate getting medical information from a chatbot in lieu of a doctor. In January the mental health app Koko, which lets volunteers provide free and confidential advice, experimented with using GPT-3 to write encouraging messages to around 4,000 users. According to Koko cofounder Rob Morris, the bot helped volunteers write the messages far more quickly than if they had had to compose them themselves. But the messages were less effective once people knew they were talking to a bot, and the company quickly shut down the experiment. “Simulated empathy feels weird, empty,” Morris [said in a Tweet](https://twitter.com/RobertRMorris/status/1611450207115288581). The experiment also provoked backlash and concerns that it was experimenting on people without their consent.
+
+A recent survey conducted by the Pew Research Center found that around 60 percent of Americans “[would feel](https://www.pewresearch.org/science/2023/02/22/60-of-americans-would-be-uncomfortable-with-provider-relying-on-ai-in-their-own-health-care/) [_uncomfortable_](https://www.pewresearch.org/science/2023/02/22/60-of-americans-would-be-uncomfortable-with-provider-relying-on-ai-in-their-own-health-care/) if their own health care provider relied on artificial intelligence to do things like diagnose disease and recommend treatments.” Yet people are not always good at telling the difference between a bot and a human—and that ambiguity is only likely to grow as the technology advances. In a recent preprint study, Nov, Singh and their colleagues designed a [medical Turing test](https://arxiv.org/abs/2301.10035) to see whether 430 volunteers could distinguish ChatGPT from a physician. The researchers did not instruct ChatGPT to be particularly empathetic or to speak like a doctor. They simply asked it to answer a set of 10 predetermined questions from patients in a certain number of words. The volunteers correctly identified both the physician and the bot just 65 percent of the time on average.
+
+Devin Mann, a physician and informatics researcher at NYU Langone Health and one of the study’s authors, suspects that the volunteers were not only picking up on idiosyncrasies in human phrasing but also on the detail in the answer. AI systems, which have infinite time and patience, might explain things more slowly and completely, while a busy doctor might give a more concise answer. The additional background and information might be ideal for some patients, he says.
+
+The researchers also found that users trusted the chatbot to answer simple questions. But the more complex the question became—and the higher the risk or complexity involved—the less willing they were to trust the chatbot’s diagnosis.
+
+Mann says it is probably inevitable that AI systems will eventually manage some portion of diagnosis and treatment. The key thing, he says, is that people know a doctor is available if they are unhappy with the chatbot. “They want to have that number to call to get the next level of service,” he says.
+
+Mann predicts that a major medical center will soon announce an AI chatbot that helps diagnose disease. Such a partnership would raise a host of new questions: whether patients and insurers will be charged for this service, how to ensure patients’ data are protected and who will be responsible if someone is harmed by a chatbot’s advice. “We also think about next steps and how to train health care providers to do their part” in a three-way interaction among the AI, doctor and patient, Nov says.
+
+In the meantime, researchers hope the rollout will move slowly—perhaps confined to clinical research for the time being while developers and medical experts work out the kinks. But Tolchin finds one thing encouraging: “When I’ve tested it, I have been heartened to see it fairly consistently recommends evaluation by a physician,” he says.
+
+_This article is part of an ongoing series on generative AI in medicine._
+
+- _Editor’s Note (4/3/23): This sentence has been updated to clarify how OpenAI pretrains its chatbot model to provide more reliable answers._
+
+### ABOUT THE AUTHOR(S)
+
+Advertisement

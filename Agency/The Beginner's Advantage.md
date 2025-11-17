@@ -1,9 +1,6 @@
 ---
 tags:
   - Agency
-  - Beginner's-mind
-  - Expertise
-  - Innovation
 Status: Outline
 ---
 <center><h1>The Beginner's Advantage: How Ignorance Enables Agency</h1></center>

@@ -1,8 +1,6 @@
 ---
 tags:
   - Self-control
-  - Social-dynamics
-  - Boundaries
 Status: Outline
 ---
 <center><h1>Social Pressure and Discipline: The Friend Who Always Wants to Go Out</h1></center>

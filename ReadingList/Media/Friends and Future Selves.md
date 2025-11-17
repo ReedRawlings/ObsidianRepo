@@ -1,0 +1,3 @@
+---
+Type: Academic Journal
+---
