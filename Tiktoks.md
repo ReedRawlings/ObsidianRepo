@@ -44,6 +44,27 @@ Hot take but if you're waiting to 2026 to start your new years resolutions you'v
 Not sure who needs to hear this but, January 1st is just another day. There's no magic in it. The you of 2026 is the same person just with less time. 
 **V4**
 The people who actually change don't wait for the new years to start growing. They have a bias towards action and that means getting off the phone right now. 
+**V5**
+New Year, new me! Uh what are you waiting for. That's six weeks away. Get to work
+
+## Procrastinating Success
+**V1**
+This is the easiest lesson you'll learn about success, the more time you spend fantasizing about 
+**V2**
+The number one form of procrastination is planning. You spend too much time researching and planning the ideal way to achieve success, but fail to put any effort into doing the work. The change you need to make is obvious, get to work.
+**V3**
+Stop day dreaming, stop reading other people's success stories, stop imagining a better future because none of it will come true until you put in the work and take the risks.
+**V4**
+People don't understand how little work you need to do each day to see compounding gains. 15-minutes get you a content outline, a post recorded, its a mile walked, its a whole workout. You put 15-minutes into whatever your goal every day and you will be a changed person in a year. 
+
+## Motivation
+**V1**
+I don't think people understand that motivation shapes the world around us - when you're hungry, restaurants catch your eye. If you're unhappy at work, you'll look for every opportunity to get angrier. You need to use this awareness to optimize your environment for your goals.
+**V2**
+Here's my favorite lesson about emotions and attention: your mood acts like a filter, automatically drawing you toward things that match how you feel. When you're down, you'll spot the negative faster. When you're happy, opportunities seem to appear everywhere. Notice your emotional state before making important decisions.
+
+## Focus
+I am constantly amazed by how our modern devices fragment our attention into tiny pieces. Every video, every notification, each post perfectly steals a moment of focus and before you know it the whole day is gone. To fight it, you need to create time for dedicated deep work. Lock your phone down, get a pomodoro timer, and head to a focused space like library or coffee shop
 
 ## Learning About Discipline
 **V1**
