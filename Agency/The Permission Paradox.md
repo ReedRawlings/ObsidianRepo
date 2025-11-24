@@ -1,9 +1,8 @@
 ---
 tags:
   - Agency
-  - Self-advocacy
-  - Initiative
-Status: Outline
+  - Self-delusion
+Status: Draft
 ---
 <center><h1>The Permission Paradox: Why Asking for Approval Kills Agency</h1></center>
 
@@ -83,8 +82,21 @@ Here are some simple signs you're slipping from collaboration to abdication.
 - You ask even when you know what you want
 - You're surprised when they defer back to you
 
-**Breaking the Perm**
+**Breaking the Permission Habit**
+Thankfully, we get a ton of opportunities to practice shifting from permission to inputs. Every time you have to choose where to go out to eat, the games you play with friends, when you meet up with family. No one really wants to make decisions for groups and so this creates an excellent, low-stakes playground for bolstering our new skill.
 
+Obviously, you'll need to become comfortable tolerating others' discomfort with your decisions. They will have their own considerations to account for and talking through them is critical to cementing this as a life long skill. 
+
+Remember, every time you seek input is a victory. Our goal is to break the permission habit, not win the war of getting to choose the restaurant for the night. 
+
+You are allowed to make your own choices
+- Most things don't require permission - you've just gotten used to asking
+- Start deciding, then informing
+- The discomfort of autonomy beats the slow death of constant approval-seeking
+- Your life belongs to you - stop asking others if you can live it
+
+
+# OUTLINE
 Into
 - **Seeking Input**: "What do you think about this approach?"
 - **Seeking Permission**: "Is it okay if I do this?"
