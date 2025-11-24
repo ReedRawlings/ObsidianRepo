@@ -1,0 +1,1 @@
+A person finds an old journal they wrote as a teenager, only to realize some of the entries were actually written by an AI practicing how to sound human.
