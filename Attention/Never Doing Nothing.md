@@ -22,8 +22,6 @@ The solution is relatively simple; I need to create an environment that helps me
 
 The best way for me to do this would be to delete Twitter (and all social media), but since I like it here I need other alternatives.
 
-Research from Ulrik Lyngs helps us identify a few tools we can use to circumvent the need for willpower and empower better behaviors.
-
 ---
 I have two problems; I do not like doing nothing and the closer I get to doing nothing the more likely I am to fall back on my habits.
 
